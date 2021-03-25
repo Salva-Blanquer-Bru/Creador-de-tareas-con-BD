@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Creador-de-Tareas/Creador-de-Tareas.iml" filepath="$PROJECT_DIR$/../Creador-de-Tareas/Creador-de-Tareas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Creador-de-tareas-con-BD.iml" filepath="$PROJECT_DIR$/.idea/Creador-de-tareas-con-BD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Programacion/Programacion.iml" filepath="$PROJECT_DIR$/../Programacion/Programacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Reserva_Hotel/Reserva_Hotel.iml" filepath="$PROJECT_DIR$/../Reserva_Hotel/Reserva_Hotel.iml" />
+    </modules>
+  </component>
+</project>
